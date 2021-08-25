@@ -1,3 +1,2 @@
-Clone da home page do google
-Em HTML e CSS
+Clone da home page do google em HTML e CSS
  
